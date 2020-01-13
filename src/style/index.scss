@@ -1,0 +1,10 @@
+.el-progress {
+  display: inline-block;
+  svg {
+    display: block;
+  }
+  &__inner {
+    margin-top: 10px;
+    text-align: center;
+  }
+}
